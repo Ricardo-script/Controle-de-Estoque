@@ -1,0 +1,135 @@
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.MainForm.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.csproj.GenerateResource.Cache
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Menu.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\bin\Debug\System.Data.SQLite.dll
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\bin\Debug\System.Data.SQLite.xml
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Controle.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Produto.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Dados.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Saida.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Excluir_Cad.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Exc_Tsç.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Cadastro.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Exc_Cliente.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.AddGupo.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Exc_Gp.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Unidade.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Exc_Unidade.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Add_Fornecedor.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Exc_Fornecedor.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Configuracao.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle.Excluido.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\bin\Debug\Controle de Estoque.exe
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\bin\Debug\Controle de Estoque.pdb
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle de Estoque.exe
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle\Controle\obj\Debug\Controle de Estoque.pdb
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\bin\Debug\Controle de Estoque.exe
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\bin\Debug\Controle de Estoque.pdb
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\bin\Debug\System.Data.SQLite.dll
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\bin\Debug\System.Data.SQLite.xml
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.AddGupo.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Add_Fornecedor.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Cadastro.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Configuracao.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Controle_Stq.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Dados.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Excluido.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Excluir_Cad.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Exc_Cliente.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Exc_Fornecedor.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Exc_Gp.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Exc_Tsç.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Exc_Unidade.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.MainForm.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Menu.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Produto.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Saida.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.Unidade.resources
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle.csproj.GenerateResource.Cache
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle de Estoque.exe
+C:\Users\claudia\Desktop\Controle de Estoque\Controle\obj\Debug\Controle de Estoque.pdb
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\bin\Debug\Controle de Estoque.exe
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\bin\Debug\Controle de Estoque.pdb
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\bin\Debug\System.Data.SQLite.dll
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\bin\Debug\System.Data.SQLite.xml
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.AddGupo.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Add_Fornecedor.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Cadastro.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Configuracao.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Controle_Stq.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Dados.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Excluido.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Excluir_Cad.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Exc_Cliente.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Exc_Fornecedor.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Exc_Gp.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Exc_Tsç.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Exc_Unidade.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.MainForm.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Menu.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Produto.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Saida.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Unidade.resources
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.csproj.GenerateResource.Cache
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle de Estoque.exe
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle de Estoque.pdb
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Adm_Excluir.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.AddGupo.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Add_Fornecedor.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Adm_Excluir.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Cadastro.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Configuracao.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Controle_Stq.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Dados.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Excluido.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Excluir_Cad.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Exc_Cliente.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Exc_Fornecedor.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Exc_Gp.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Exc_Tsç.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Exc_Unidade.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.MainForm.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Menu.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Produto.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Saida.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.Unidade.resources
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle.csproj.GenerateResource.Cache
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle de Estoque.exe
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\bin\Debug\Controle de Estoque.exe
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\bin\Debug\Controle de Estoque.pdb
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\bin\Debug\System.Data.SQLite.dll
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\bin\Debug\System.Data.SQLite.xml
+C:\Users\ricardo.silva\Desktop\Controle de Estoque - Back-up\Controle\obj\Debug\Controle de Estoque.pdb
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.AddGupo.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Add_Fornecedor.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Adm_Excluir.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Cadastro.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Configuracao.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Controle_Stq.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Dados.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Excluido.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Excluir_Cad.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Exc_Cliente.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Exc_Fornecedor.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Exc_Gp.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Exc_Tsç.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Exc_Unidade.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.MainForm.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Menu.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Produto.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Saida.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Status.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.Unidade.resources
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle.csproj.GenerateResource.Cache
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle de Estoque.exe
+C:\Users\ricardo.silva\Desktop\Teste\Controle\obj\Debug\Controle de Estoque.pdb
+C:\Users\ricardo.silva\Desktop\Teste\Controle\bin\Debug\Controle de Estoque.exe
+C:\Users\ricardo.silva\Desktop\Teste\Controle\bin\Debug\Controle de Estoque.pdb
+C:\Users\ricardo.silva\Desktop\Teste\Controle\bin\Debug\System.Data.SQLite.dll
+C:\Users\ricardo.silva\Desktop\Teste\Controle\bin\Debug\System.Data.SQLite.xml
+C:\Users\ricardo.silva\Documents\SharpDevelop Projects\Controle de Estoque\Controle\obj\Debug\Controle.Status.resources
